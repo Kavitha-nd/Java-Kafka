@@ -9,12 +9,16 @@ public class Assignment_Q3 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
+		System.out.print("Enter a boolen: ");
+		boolean mybool = scanner.nextBoolean();
+		System.out.println("boolean: " + mybool+ " (Type: " + ((Object) mybool).getClass().getName() + ")");
+		
 		System.out.print("Enter a byte: ");
 		byte myByte = scanner.nextByte();
 		System.out.println("byte: " + myByte+ " (Type: " + ((Object) myByte).getClass().getName() + ")");
 		
 		System.out.print("Enter a short: ");
-		short myshort = scanner.nextByte();
+		short myshort = scanner.nextShort();
 		System.out.println("short: " + myshort+ " (Type: " + ((Object) myshort).getClass().getName() + ")");
 		
 		System.out.print("Enter a long: ");
@@ -32,13 +36,10 @@ public class Assignment_Q3 {
 		
 		System.out.print("Enter a double: ");
 		double mydoub = scanner.nextDouble();
-		System.out.println("boolean: " + mydoub+ " (Type: " + ((Object) mydoub).getClass().getName() + ")");
+		System.out.println("double: " + mydoub+ " (Type: " + ((Object) mydoub).getClass().getName() + ")");
 		
-		
-		System.out.print("Enter a String: ");
-		String mystr = scanner.nextLine();
-		System.out.println("String: " + mystr+ " (Type: " + mystr.getClass().getName() + ")");
 
+		
 		scanner.close();
 
 	}
