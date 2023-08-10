@@ -1,4 +1,4 @@
-package operators;
+package day3;
 
 public class ArithmeticDemo {
 

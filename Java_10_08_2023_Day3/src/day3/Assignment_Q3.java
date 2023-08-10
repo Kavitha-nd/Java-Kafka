@@ -1,4 +1,4 @@
-package operators;
+package day3;
 
 
 //Assign values of variables 'a' and 'b' as 55 and 70 respectively and 

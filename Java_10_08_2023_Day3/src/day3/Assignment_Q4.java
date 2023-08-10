@@ -1,4 +1,4 @@
-package operators;
+package day3;
 
 
 // Suppose the values of variables 'a' and 'b' are 6 and 8 respecrtively,write two programs to swap the values of the two variables.

@@ -1,4 +1,4 @@
-package operators;
+package day3;
 
 
 // Write a program to add 8 to the number 2345 and then divide it by 3. 
