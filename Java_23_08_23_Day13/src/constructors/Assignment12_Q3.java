@@ -25,7 +25,7 @@ public class Assignment12_Q3 {
 	                min = arr[i];
 	            }
 	        }
-	        return min;
+	        return min; 
 	}
 	
 	public double square(int num) {
