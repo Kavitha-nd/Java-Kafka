@@ -1,7 +1,5 @@
 package class_object;
-//
-//import java.util.Scanner;
-//
+
 ////Create a class “Loginn” with variables Username and Password. 
 ////Use methods for input, validation and output the values respectively.  
 ////Call those methods using 2 different objects.
