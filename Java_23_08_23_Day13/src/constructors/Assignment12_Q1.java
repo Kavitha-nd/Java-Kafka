@@ -10,7 +10,7 @@ class Student{
 	String college;
 	String department;
 	
-	// Constructor
+	//Constructor
 	public Student(String name, int rollno, String college, String department ) {
 		this.name = name;
 		this.rollno = rollno;

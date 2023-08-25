@@ -1,4 +1,6 @@
 package constructors;
+
+
 //Create a class “Employee” get values for Employee Id, Employee Name , Salary and Experience through constructor. 
 //Create a static method to calculate their salary based on the experience.  
 //If the experience is below 2 years, the salary remains same. 

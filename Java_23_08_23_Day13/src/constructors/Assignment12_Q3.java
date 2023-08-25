@@ -1,6 +1,8 @@
 package constructors;
 //Create a static method which returns the maximum and minimum number of an array and a normal method to return the square root and cube of a given number. 
 //Initialization will be done in construct
+
+
 public class Assignment12_Q3 {
 	//Instance Variable 'numbers' will hold array of integers 
 	int[] numbers;
